@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+@font-face {
+    font-family: 'Outfit300';
+    src: url(../fonts/Outfit-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Outfit400';
+    src: url(../fonts/Outfit-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Outfit600';
+    src: url(../fonts/Outfit-SemiBold.ttf);
+}
